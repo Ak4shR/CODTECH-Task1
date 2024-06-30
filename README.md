@@ -1,8 +1,13 @@
 Name: Akash R
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DS1388
+
 Domain: Machine Learning
+
 Duration: June 1 to June 30 2024 
+
 Mentor: SRAVANI GOUNI
 
 # Overview of the Project
